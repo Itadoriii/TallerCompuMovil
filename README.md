@@ -23,14 +23,18 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite cont
    ```bash
    git clone https://github.com/Itadoriii/TallerCompuMovil.git
 
-2.Navega al directorio del proyecto:
-```bash cd TallerCompuMovi```
+2. Navega al directorio del proyecto:
+  ```bash
+  cd TallerCompuMovi
     
 3. Instala las dependencias de Flutter del proyecto:
     ```bash
     flutter pub get
 
-4.Ejecuta la aplicación en el dispositivo o emulador:
-```bash
-    flutter run 
-    ```
+4. Ejecuta la aplicación en el dispositivo o emulador:
+   ```bash 
+flutter run 
+## Integrantes del Grupo 1: 
+Sebastian Castro
+Pablo Garcia
+Sebastian Villalobos
