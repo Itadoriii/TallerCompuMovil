@@ -25,7 +25,7 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite cont
 
 2. Navega al directorio del proyecto:
    ```bash 
-    cd TallerCompuMovi
+   cd TallerCompuMovi
     
 3. Instala las dependencias de Flutter del proyecto:
    ```bash flutter 
@@ -36,6 +36,6 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite cont
    flutter run 
 
 ## Integrantes del Grupo 1: 
-Sebastian Castro
-Pablo Garcia
-Sebastian Villalobos
+- Sebastian Castro
+- Pablo Garcia
+- Sebastian Villalobos
