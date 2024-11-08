@@ -34,6 +34,7 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite cont
 4. Ejecuta la aplicación en el dispositivo o emulador:
    ```bash 
 flutter run 
+
 ## Integrantes del Grupo 1: 
 Sebastian Castro
 Pablo Garcia
